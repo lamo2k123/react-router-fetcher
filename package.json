@@ -20,7 +20,7 @@
     "minify": "uglifyjs ./index.js -o ./index.js -c -m"
   },
   "dependencies": {
-    "react": "0.14.x || 15.x.x"
+    "react": "16.5.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
